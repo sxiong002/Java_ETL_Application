@@ -1,0 +1,3 @@
+# ignore files when pushing to github
+
+*.json
